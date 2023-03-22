@@ -1,19 +1,26 @@
-## <img src="https://stardewcommunitywiki.com/mediawiki/images/5/57/Junimo.gif" width="32" height="32"> Olá mundo! Eu sou o Zeu! <img src="https://stardewcommunitywiki.com/mediawiki/images/5/57/Junimo.gif" width="32" height="32">
+## <img src="https://media.tenor.com/QrTv5JhdH1cAAAAi/chicken-stardew-valley.gif" width="32" height="32"> Olá mundo! Eu sou o Zeu!<img src="https://stardewcommunitywiki.com/mediawiki/images/5/57/Junimo.gif" width="32" height="32">
 <img src="https://gifdb.com/images/high/omori-characters-smiling-dg12jdktwe5terfa.gif" width="500" height="340">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeeeuX&show_icons=true&theme=jolly)
  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeeuX&layout=compact&langs_count=16&theme=jolly"/>
 
-## Sobre mim <img src="https://stardewcommunitywiki.com/mediawiki/images/5/57/Junimo.gif" width="32" height="32">
+## <img src="https://giffiles.alphacoders.com/146/14693.gif" width="40" height="42">Sobre mim<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/432780e4-f104-4387-987f-8611d44dc1c4/d7vvhqh-4e2a1787-eccd-41a4-8901-74fed194c309.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQzMjc4MGU0LWYxMDQtNDM4Ny05ODdmLTg2MTFkNDRkYzFjNFwvZDd2dmhxaC00ZTJhMTc4Ny1lY2NkLTQxYTQtODkwMS03NGZlZDE5NGMzMDkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kAQV85pmLBElRfmTjBEsAd_u8ti8AZ05StJi45st9ew" width="48" height="48">
 
-- Sou formado em <strong>Mecatrônica</strong> pela <strong>ETEC Professor Basilides de Godoy</strong>
-- Estudo sobre Analise e Desenvolvimento na <strong>Faculdade Oswaldo Cruz</strong>
-- Tenho nivel Intermediario
-- Conhecimento minimo GML e disposto a aprender novas linguagens de programação
-- Como hobbies eu costumo a jogar jogos virtuais, ouvir musicas e jogar 
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8d82b67d-49fa-4027-bef7-e7ec18d83bec/de46qaj-8e644a2a-c619-47fc-8baa-3bea1ff7505d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhkODJiNjdkLTQ5ZmEtNDAyNy1iZWY3LWU3ZWMxOGQ4M2JlY1wvZGU0NnFhai04ZTY0NGEyYS1jNjE5LTQ3ZmMtOGJhYS0zYmVhMWZmNzUwNWQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.C_oDP9d3nrgr-kakus9BKcaWtenhgqAds8fv0u1UWbo" width="18" height="18">Sou formado em <strong>Mecatrônica</strong> pela <strong>ETEC Professor Basilides de Godoy</strong>
 
-## Redes sociais
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8d82b67d-49fa-4027-bef7-e7ec18d83bec/de46qaj-8e644a2a-c619-47fc-8baa-3bea1ff7505d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhkODJiNjdkLTQ5ZmEtNDAyNy1iZWY3LWU3ZWMxOGQ4M2JlY1wvZGU0NnFhai04ZTY0NGEyYS1jNjE5LTQ3ZmMtOGJhYS0zYmVhMWZmNzUwNWQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.C_oDP9d3nrgr-kakus9BKcaWtenhgqAds8fv0u1UWbo" width="18" height="18">Estudo sobre Analise e Desenvolvimento na <strong>Faculdade Oswaldo Cruz</strong>
+
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8d82b67d-49fa-4027-bef7-e7ec18d83bec/de46qaj-8e644a2a-c619-47fc-8baa-3bea1ff7505d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhkODJiNjdkLTQ5ZmEtNDAyNy1iZWY3LWU3ZWMxOGQ4M2JlY1wvZGU0NnFhai04ZTY0NGEyYS1jNjE5LTQ3ZmMtOGJhYS0zYmVhMWZmNzUwNWQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.C_oDP9d3nrgr-kakus9BKcaWtenhgqAds8fv0u1UWbo" width="18" height="18">Tenho nivel Intermediario de ingles
+
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8d82b67d-49fa-4027-bef7-e7ec18d83bec/de46qaj-8e644a2a-c619-47fc-8baa-3bea1ff7505d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhkODJiNjdkLTQ5ZmEtNDAyNy1iZWY3LWU3ZWMxOGQ4M2JlY1wvZGU0NnFhai04ZTY0NGEyYS1jNjE5LTQ3ZmMtOGJhYS0zYmVhMWZmNzUwNWQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.C_oDP9d3nrgr-kakus9BKcaWtenhgqAds8fv0u1UWbo" width="18" height="18">Conhecimento minimo GML e disposto a aprender novas linguagens de programação
+
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8d82b67d-49fa-4027-bef7-e7ec18d83bec/de46qaj-8e644a2a-c619-47fc-8baa-3bea1ff7505d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhkODJiNjdkLTQ5ZmEtNDAyNy1iZWY3LWU3ZWMxOGQ4M2JlY1wvZGU0NnFhai04ZTY0NGEyYS1jNjE5LTQ3ZmMtOGJhYS0zYmVhMWZmNzUwNWQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.C_oDP9d3nrgr-kakus9BKcaWtenhgqAds8fv0u1UWbo" width="18" height="18">Como hobbies eu costumo a jogar jogos virtuais, ouvir musicas e jogar 
+
+## <img src="https://media.tenor.com/xqsJNEFuKYEAAAAi/omori-aubrey.gif" width="48" height="48">Redes sociais <img src="https://media.tenor.com/05-cqAbS8J4AAAAi/omori-aubrey.gif" width="48" height="48">
 
   <a href="https://www.instagram.com/zezonelzeu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/ZeeeuX" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:ElizeuDVF@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+<img src="https://tcrf.net/images/4/43/Omori-Aubrey_sim_neutral.gif" width="240" height="240"> <img src="https://tcrf.net/images/7/7d/Omori-Kel_sim_neutral.gif" width="230" height="240"> <img src="https://tcrf.net/images/a/a6/Omori-Hero_sim_neutral.gif" width="240" height="240"> <img src="https://tcrf.net/images/e/e0/Omori-Mari_sim_neutral.gif" width="240" height="240">
+  
