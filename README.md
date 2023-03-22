@@ -1,16 +1,18 @@
-### Hi there 👋
+## <img src="https://stardewcommunitywiki.com/mediawiki/images/5/57/Junimo.gif" width="32" height="32"> Olá mundo! Eu sou o Zeu! <img src="https://stardewcommunitywiki.com/mediawiki/images/5/57/Junimo.gif" width="32" height="32">
+<img src="https://gifdb.com/images/high/omori-characters-smiling-dg12jdktwe5terfa.gif" width="500" height="340">
 
-<!--
-**ZeeeuX/ZeeeuX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeeeuX&show_icons=true&theme=jolly)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Sobre mim <img src="https://stardewcommunitywiki.com/mediawiki/images/5/57/Junimo.gif" width="32" height="32">
+
+- Sou formado em <strong>Mecatrônica</strong> pela <strong>ETEC Professor Basilides de Godoy</strong>
+- Estudo sobre Analise e Desenvolvimento na <strong>Faculdade Oswaldo Cruz</strong>
+- Tenho nivel Intermediario
+- Conhecimento minimo GML e disposto a aprender novas linguagens de programação
+- Como hobbies eu costumo a jogar jogos virtuais, ouvir musicas e jogar Rpg
+
+
+
