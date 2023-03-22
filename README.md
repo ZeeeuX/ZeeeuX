@@ -16,7 +16,7 @@
 
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8d82b67d-49fa-4027-bef7-e7ec18d83bec/de46qaj-8e644a2a-c619-47fc-8baa-3bea1ff7505d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhkODJiNjdkLTQ5ZmEtNDAyNy1iZWY3LWU3ZWMxOGQ4M2JlY1wvZGU0NnFhai04ZTY0NGEyYS1jNjE5LTQ3ZmMtOGJhYS0zYmVhMWZmNzUwNWQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.C_oDP9d3nrgr-kakus9BKcaWtenhgqAds8fv0u1UWbo" width="18" height="18">Como hobbies eu costumo a jogar jogos virtuais, ouvir musicas e jogar 
 
-## <img src="https://media.tenor.com/xqsJNEFuKYEAAAAi/omori-aubrey.gif" width="48" height="48">Redes sociais <img src="https://media.tenor.com/05-cqAbS8J4AAAAi/omori-aubrey.gif" width="48" height="48">
+## <img src="https://media.tenor.com/05-cqAbS8J4AAAAi/omori-aubrey.gif" width="48" height="48">Redes sociais<img src="https://media.tenor.com/xqsJNEFuKYEAAAAi/omori-aubrey.gif" width="48" height="48">
 
   <a href="https://www.instagram.com/zezonelzeu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/ZeeeuX" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
